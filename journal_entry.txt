@@ -1,0 +1,6 @@
+Date: {{ auto_date }}
+Weather: {{ current_weather }}
+
+"I stood at the window a while. The crows came, just like they always do. Must’ve been the bread.
+Pecking in quiet rhythm, black wings glinting in the light. They didn’t look at me—but they knew I was there.
+The hens stayed close to the ground, calm. I think the birds remember more than they let on. That’s good enough for me."

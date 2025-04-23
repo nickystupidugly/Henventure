@@ -1,0 +1,13 @@
+# Daily Crow Omens
+omens:
+  morning_arrival:
+    early: "Protection is strong today."
+    late: "Energy disruption in the air. Stay grounded."
+    absent: "The silence is a sign. Observe, don’t act."
+  feathers:
+    black: "You are being watched over."
+    gray: "Balance is needed in your home."
+  crow_count:
+    one: "A message is coming. Be receptive."
+    two: "A decision lies ahead."
+    three_or_more: "Harmony surrounds you."
